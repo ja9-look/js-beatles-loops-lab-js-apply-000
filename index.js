@@ -21,4 +21,5 @@ function johnLennonFacts(facts){
     factStr.push("John Lennon ")
     i++;
   }
+  return factStr
 }
