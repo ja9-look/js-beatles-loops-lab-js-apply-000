@@ -18,7 +18,7 @@ const facts = [
 function johnLennonFacts(facts){
   var factStr = [];
   while (i = 0; i < facts.length){
-    factStr.push("John Lennon ")
+    factStr.push(facts[i] + "!!!")
     i++;
   }
   return factStr;
