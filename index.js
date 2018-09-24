@@ -17,5 +17,5 @@ const facts = [
 
 function johnLennonFacts(facts){
   var factStr = [];
-  while ()
+  while (i = 0; )
 }
